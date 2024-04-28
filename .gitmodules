@@ -1,0 +1,3 @@
+[submodule "jack-of-old-pythons"]
+	path = jack-of-old-pythons
+	url = git@github.com:SETA1609/jack-of-old-pythons.git
